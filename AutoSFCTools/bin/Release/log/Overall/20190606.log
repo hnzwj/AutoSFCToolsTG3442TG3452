@@ -1,0 +1,279 @@
+09:46:30  TestInfo = 0 Error = 0
+09:46:30  TestInfo = 95B2D29BJ700510 Error = UUT:1=95B2D29BJ700510
+09:46:30  TestInfo = 95A2D29BJ702079 Error = UUT:2=95A2D29BJ702079
+09:46:30  TestInfo = 94W2D8945400114 Error = UUT:3=94W2D8945400114
+09:46:30  TestInfo = 95D2D8945400024 Error = UUT:4=95D2D8945400024
+09:46:30  TestInfo = 5 Error = 5
+09:46:30  TestInfo = 6 Error = 6
+09:46:30  TestInfo = 7 Error = 7
+09:46:30  TestInfo = 8 Error = 8
+09:46:30  TestInfo = 9 Error = 9
+09:46:30  TestInfo = 10 Error = 10
+09:53:31  TestInfo = 0 Error = 0
+10:26:07  TestInfo = 95B2D29BJ700510 Error = 2002-02
+10:26:07  TestInfo = 95A2D29BJ702079 Error = 2032-09
+10:26:07  TestInfo = 94W2D8945400114 Error = PASS
+10:26:07  TestInfo = 95D2D8945400024 Error = PASS
+10:29:04  TestInfo = 95B2D29BJ700510 Error = 2002-02
+10:30:28  TestInfo = 95A2D29BJ702079 Error = 2032-09
+10:33:44  TestInfo = 95B2D29BJ700510 Error = 2002-02
+10:35:08  TestInfo = 95B2D29BJ700510 Error = 2002-02
+10:39:46  TestInfo = 0 Error = 0
+10:41:12  TestInfo = 0 Error = 0
+10:41:23  TestInfo = 95A2D29BJ702079 Error = 2032-09
+10:41:30  TestInfo = 94W2D8945400114 Error = PASS
+10:41:41  TestInfo = 95D2D8945400024 Error = PASS
+10:43:09  TestInfo = 95B2D29BJ700510 Error = 2002-02
+10:43:14  TestInfo = 95A2D29BJ702079 Error = 2032-09
+10:43:19  TestInfo = 94W2D8945400114 Error = PASS
+10:43:24  TestInfo = 95D2D8945400024 Error = PASS
+11:06:33  TestInfo = 95C2D29BJ701263 Error = P
+11:06:33  TestInfo = 95C2D29BJ701263 Error = P
+11:06:33  TestInfo = 95C2D29BJ701884 Error = P
+11:06:33  TestInfo = 95C2D29BJ701883 Error = P
+11:28:50  TestInfo = 95C2D29BJ701263 Error = P
+11:28:50  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+11:28:50  TestInfo = 95C2D29BJ701112 Error = P
+11:28:50  TestInfo = 95C2D29BJ701264 Error = P
+11:31:53  TestInfo = 95C2D29BJ701263 Error = P
+11:34:05  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+11:34:05  TestInfo = 95C2D29BJ701112 Error = P
+11:34:05  TestInfo = 95C2D29BJ701264 Error = P
+11:35:01  TestInfo = 95C2D29BJ701263 Error = P
+11:35:01  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+11:35:01  TestInfo = 95C2D29BJ701112 Error = P
+11:35:01  TestInfo = 95C2D29BJ701264 Error = P
+11:43:43  TestInfo = 95C2D29BJ701263 Error = P
+11:44:23  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+11:44:28  TestInfo = 95C2D29BJ701112 Error = P
+11:44:34  TestInfo = 95C2D29BJ701264 Error = P
+11:46:18  TestInfo = 95C2D29BJ701263 Error = P
+11:46:23  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+11:46:28  TestInfo = 95C2D29BJ701112 Error = P
+11:46:33  TestInfo = 95C2D29BJ701264 Error = P
+14:00:12  TestInfo = 95C2D29BJ701263 Error = P
+14:00:19  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+14:00:24  TestInfo = 95C2D29BJ701112 Error = P
+14:00:32  TestInfo = 95C2D29BJ701264 Error = P
+14:02:30  TestInfo = 95C2D29BJ701263 Error = P
+14:05:59  TestInfo = 95B2D29BJ702879 Error = FAIL
+14:11:49  TestInfo = 95C2D29BJ701263 Error = PASS
+14:11:59  TestInfo = 95B2D29BJ702879 Error = FAIL
+14:12:05  TestInfo = 95C2D29BJ701112 Error = PASS
+14:12:11  TestInfo = 95C2D29BJ701264 Error = PASS
+14:14:53  TestInfo = 95C2D29BJ701263 Error = PASS
+14:14:58  TestInfo = 95B2D29BJ702879 Error = FAIL
+14:15:03  TestInfo = 95C2D29BJ701112 Error = PASS
+14:15:08  TestInfo = 95C2D29BJ701264 Error = PASS
+14:18:41  TestInfo = 95C2D29BJ701263 Error = PASS
+14:18:46  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+14:18:51  TestInfo = 95C2D29BJ701112 Error = PASS
+14:18:56  TestInfo = 95C2D29BJ701264 Error = PASS
+14:20:33  TestInfo = 95B2D29BJ700510 Error = 2002-02
+14:20:38  TestInfo = 95A2D29BJ702079 Error = 2032-09
+14:20:43  TestInfo = 94W2D8945400114 Error = PASS
+14:20:48  TestInfo = 95D2D8945400024 Error = PASS
+14:23:33  TestInfo = 0 Error = 0
+14:23:38  TestInfo = 1 Error = 1
+14:23:43  TestInfo = 2 Error = 2
+14:23:48  TestInfo = 3 Error = 3
+14:25:35 Open() exception: Access to the port 'COM14' is denied.
+14:25:35 Open() exception: Access to the port 'COM14' is denied.
+14:25:35  TestInfo = 0 Error = 0
+14:25:35 Open() exception: Access to the port 'COM14' is denied.
+14:25:35 SendData() exception: The port is closed.
+14:25:40  TestInfo = 1 Error = 1
+14:25:40 Open() exception: Access to the port 'COM14' is denied.
+14:25:40 SendData() exception: The port is closed.
+14:26:59  TestInfo = 2 Error = 2
+14:27:04  TestInfo = 0 Error = 0
+14:27:09  TestInfo = 1 Error = 1
+14:27:52  TestInfo = 94W2D8945400146 Error = PASS
+14:27:57  TestInfo = 94W2D8945400113 Error = PASS
+14:28:02  TestInfo = 94W2D8945400386 Error = PASS
+14:28:07  TestInfo = 94W2D8945400098 Error = PASS
+14:28:50  TestInfo = 94W2D8945400146 Error = PASS
+14:28:55  TestInfo = 94W2D8945400113 Error = PASS
+14:29:00  TestInfo = 94W2D8945400386 Error = PASS
+14:29:05  TestInfo = 94W2D8945400098 Error = PASS
+14:30:02  TestInfo = 94W2D8945400146 Error = PASS
+14:34:12  TestInfo = 94W2D8945400146 Error = PASS
+14:34:17  TestInfo = 94W2D8945400113 Error = PASS
+14:34:22  TestInfo = 94W2D8945400386 Error = PASS
+14:34:27  TestInfo = 94W2D8945400098 Error = PASS
+14:35:52  TestInfo = 94W2D8945400146 Error = PASS
+14:35:57  TestInfo = 94W2D8945400113 Error = PASS
+14:36:02  TestInfo = 94W2D8945400386 Error = PASS
+14:36:07  TestInfo = 94W2D8945400098 Error = PASS
+14:36:41 Open() exception: Access to the port 'COM14' is denied.
+14:36:42  TestInfo = 94W2D8945400146 Error = PASS
+14:36:42 Open() exception: Access to the port 'COM14' is denied.
+14:36:42 SendData() exception: The port is closed.
+14:36:47  TestInfo = 94W2D8945400113 Error = PASS
+14:36:47 Open() exception: Access to the port 'COM14' is denied.
+14:36:47 SendData() exception: The port is closed.
+14:36:52  TestInfo = 94W2D8945400386 Error = PASS
+14:36:52 Open() exception: Access to the port 'COM14' is denied.
+14:36:52 SendData() exception: The port is closed.
+14:36:57  TestInfo = 94W2D8945400098 Error = PASS
+14:36:57 Open() exception: Access to the port 'COM14' is denied.
+14:36:57 SendData() exception: The port is closed.
+14:40:05  TestInfo = 94W2D8945400146 Error = PASS
+14:40:36  TestInfo = 94W2D8945400113 Error = PASS
+14:40:45  TestInfo = 94W2D8945400386 Error = PASS
+14:40:52  TestInfo = 94W2D8945400098 Error = PASS
+14:41:27 Open() exception: Access to the port 'COM14' is denied.
+14:41:27  TestInfo = 94W2D8945400146 Error = PASS
+14:41:27 Open() exception: Access to the port 'COM14' is denied.
+14:41:27 SendData() exception: The port is closed.
+14:41:38  TestInfo = 94W2D8945400113 Error = PASS
+14:41:38 Open() exception: Access to the port 'COM14' is denied.
+14:41:38 SendData() exception: The port is closed.
+14:42:05  TestInfo = 94W2D8945400386 Error = PASS
+14:42:06 Open() exception: Access to the port 'COM14' is denied.
+14:42:06 SendData() exception: The port is closed.
+14:42:12  TestInfo = 94W2D8945400098 Error = PASS
+14:42:12 Open() exception: Access to the port 'COM14' is denied.
+14:42:12 SendData() exception: The port is closed.
+14:42:36  TestInfo = 94W2D8945400146 Error = PASS
+14:42:41  TestInfo = 94W2D8945400113 Error = PASS
+14:42:46  TestInfo = 94W2D8945400386 Error = PASS
+14:42:51  TestInfo = 94W2D8945400098 Error = PASS
+14:43:44 Open() exception: Access to the port 'COM14' is denied.
+14:43:44  TestInfo = 94W2D8945400146 Error = PASS
+14:43:44 Open() exception: Access to the port 'COM14' is denied.
+14:43:44 SendData() exception: The port is closed.
+14:43:49  TestInfo = 94W2D8945400113 Error = PASS
+14:43:49 Open() exception: Access to the port 'COM14' is denied.
+14:43:49 SendData() exception: The port is closed.
+14:43:54  TestInfo = 94W2D8945400386 Error = PASS
+14:43:54 Open() exception: Access to the port 'COM14' is denied.
+14:43:54 SendData() exception: The port is closed.
+14:43:59  TestInfo = 94W2D8945400098 Error = PASS
+14:43:59 Open() exception: Access to the port 'COM14' is denied.
+14:43:59 SendData() exception: The port is closed.
+14:44:29  TestInfo = 94W2D8945400146 Error = PASS
+14:44:34  TestInfo = 94W2D8945400113 Error = PASS
+14:44:39  TestInfo = 94W2D8945400386 Error = PASS
+14:44:44  TestInfo = 94W2D8945400098 Error = PASS
+14:45:15 Open() exception: Access to the port 'COM14' is denied.
+14:45:16  TestInfo = 94W2D8945400146 Error = PASS
+14:45:16 Open() exception: Access to the port 'COM14' is denied.
+14:45:16 SendData() exception: The port is closed.
+14:45:21  TestInfo = 94W2D8945400113 Error = PASS
+14:45:21 Open() exception: Access to the port 'COM14' is denied.
+14:45:21 SendData() exception: The port is closed.
+14:45:26  TestInfo = 94W2D8945400386 Error = PASS
+14:45:26 Open() exception: Access to the port 'COM14' is denied.
+14:45:26 SendData() exception: The port is closed.
+14:45:31  TestInfo = 94W2D8945400098 Error = PASS
+14:45:31 Open() exception: Access to the port 'COM14' is denied.
+14:45:31 SendData() exception: The port is closed.
+14:48:57  TestInfo = 94W2D8945400146 Error = PASS
+14:49:55  TestInfo = 94W2D8945400113 Error = PASS
+14:50:21  TestInfo = 94W2D8945400386 Error = PASS
+14:50:28  TestInfo = 94W2D8945400098 Error = PASS
+14:51:04 Open() exception: Access to the port 'COM14' is denied.
+14:51:04  TestInfo = 94W2D8945400146 Error = PASS
+14:51:04 Open() exception: Access to the port 'COM14' is denied.
+14:51:06 SendData() exception: The port is closed.
+14:51:12  TestInfo = 94W2D8945400113 Error = PASS
+14:51:12 Open() exception: Access to the port 'COM14' is denied.
+14:51:18 SendData() exception: The port is closed.
+14:52:04  TestInfo = 94W2D8945400386 Error = PASS
+14:52:04 Open() exception: Access to the port 'COM14' is denied.
+14:52:06 SendData() exception: The port is closed.
+14:52:56  TestInfo = 94W2D8945400098 Error = PASS
+14:52:56 Open() exception: Access to the port 'COM14' is denied.
+14:52:58 SendData() exception: The port is closed.
+15:02:33  TestInfo = 94W2D8945400146 Error = PASS
+15:04:13  TestInfo = 94W2D8945400146 Error = PASS
+15:04:39  TestInfo = 94W2D8945400113 Error = PASS
+15:05:18  TestInfo = 94W2D8945400386 Error = PASS
+15:05:26  TestInfo = 94W2D8945400098 Error = PASS
+15:06:12 Open() exception: Access to the port 'COM14' is denied.
+15:06:12  TestInfo = 94W2D8945400146 Error = PASS
+15:06:12 Open() exception: Access to the port 'COM14' is denied.
+15:06:20 SendData() exception: The port is closed.
+15:06:50  TestInfo = 94W2D8945400113 Error = PASS
+15:06:50 Open() exception: Access to the port 'COM14' is denied.
+15:06:52 SendData() exception: The port is closed.
+15:07:38  TestInfo = 94W2D8945400386 Error = PASS
+15:07:38 Open() exception: Access to the port 'COM14' is denied.
+15:07:39 SendData() exception: The port is closed.
+15:07:44  TestInfo = 94W2D8945400098 Error = PASS
+15:07:44 Open() exception: Access to the port 'COM14' is denied.
+15:07:46 SendData() exception: The port is closed.
+15:15:08  TestInfo = 94W2D8945400146 Error = PASS
+15:15:16  TestInfo = 94W2D8945400113 Error = PASS
+15:15:22  TestInfo = 94W2D8945400386 Error = PASS
+15:15:29  TestInfo = 94W2D8945400098 Error = PASS
+15:16:18 Open() exception: Access to the port 'COM14' is denied.
+15:16:18  TestInfo = 94W2D8945400146 Error = PASS
+15:16:18 Open() exception: Access to the port 'COM14' is denied.
+15:16:19 SendData() exception: The port is closed.
+15:20:58  TestInfo = 95B2D29BJ700510 Error = 2002-02
+15:21:03  TestInfo = 95A2D29BJ702079 Error = 2032-09
+15:21:08  TestInfo = 94W2D8945400114 Error = PASS
+15:21:13  TestInfo = 95D2D8945400024 Error = PASS
+15:21:40 Open() exception: Access to the port 'COM14' is denied.
+15:21:40  TestInfo = 95B2D29BJ700510 Error = 2002-02
+15:21:40 Open() exception: Access to the port 'COM14' is denied.
+15:21:40 SendData() exception: The port is closed.
+15:21:45  TestInfo = 95A2D29BJ702079 Error = 2032-09
+15:21:45 Open() exception: Access to the port 'COM14' is denied.
+15:21:45 SendData() exception: The port is closed.
+15:21:50  TestInfo = 94W2D8945400114 Error = PASS
+15:21:50 Open() exception: Access to the port 'COM14' is denied.
+15:21:50 SendData() exception: The port is closed.
+15:21:55  TestInfo = 95D2D8945400024 Error = PASS
+15:21:55 Open() exception: Access to the port 'COM14' is denied.
+15:21:55 SendData() exception: The port is closed.
+15:22:49  TestInfo = 95C2D29BJ701263 Error = PASS
+15:22:54  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+15:22:59  TestInfo = 95C2D29BJ701112 Error = PASS
+15:23:04  TestInfo = 95C2D29BJ701264 Error = PASS
+15:23:31 Open() exception: Access to the port 'COM14' is denied.
+15:23:32  TestInfo = 95C2D29BJ701263 Error = PASS
+15:23:32 Open() exception: Access to the port 'COM14' is denied.
+15:23:32 SendData() exception: The port is closed.
+15:23:37  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+15:23:37 Open() exception: Access to the port 'COM14' is denied.
+15:23:37 SendData() exception: The port is closed.
+15:23:42  TestInfo = 95C2D29BJ701112 Error = PASS
+15:23:42 Open() exception: Access to the port 'COM14' is denied.
+15:23:42 SendData() exception: The port is closed.
+15:23:47  TestInfo = 95C2D29BJ701264 Error = PASS
+15:23:47 Open() exception: Access to the port 'COM14' is denied.
+15:23:47 SendData() exception: The port is closed.
+15:28:32  TestInfo = 95C2D29BJ701263 Error = PASS
+15:28:37  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+15:28:42  TestInfo = 95C2D29BJ701112 Error = PASS
+15:28:47  TestInfo = 95C2D29BJ701264 Error = PASS
+15:29:03 Open() exception: Access to the port 'COM14' is denied.
+15:29:03  TestInfo = 95C2D29BJ701263 Error = PASS
+15:29:03 Open() exception: Access to the port 'COM14' is denied.
+15:29:03 SendData() exception: The port is closed.
+15:29:08  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+15:29:08 Open() exception: Access to the port 'COM14' is denied.
+15:29:08 SendData() exception: The port is closed.
+15:37:08  TestInfo = 95C2D29BJ701263 Error = PASS
+15:37:13  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+15:37:18  TestInfo = 95C2D29BJ701112 Error = PASS
+15:37:23  TestInfo = 95C2D29BJ701264 Error = PASS
+15:37:54  TestInfo = 95C2D29BJ701263 Error = PASS
+15:37:59  TestInfo = 95B2D29BJ702879 Error = DS-Pwr
+15:38:04  TestInfo = 95C2D29BJ701112 Error = PASS
+15:38:09  TestInfo = 95C2D29BJ701264 Error = PASS
+15:41:00  TestInfo = 94W2D8945400146 Error = PASS
+15:41:05  TestInfo = 94W2D8945400113 Error = PASS
+15:41:10  TestInfo = 94W2D8945400386 Error = PASS
+15:41:15  TestInfo = 94W2D8945400098 Error = PASS
+15:41:43  TestInfo = 94W2D8945400146 Error = PASS
+15:41:48  TestInfo = 94W2D8945400113 Error = PASS
+15:41:53  TestInfo = 94W2D8945400386 Error = PASS
+15:41:58  TestInfo = 94W2D8945400098 Error = PASS
+16:31:05  TestInfo = 94W2D8945400146 Error = PASS
+16:31:10  TestInfo = 94W2D8945400113 Error = PASS
+16:31:15  TestInfo = 94W2D8945400386 Error = PASS
+16:31:20  TestInfo = 94W2D8945400098 Error = PASS

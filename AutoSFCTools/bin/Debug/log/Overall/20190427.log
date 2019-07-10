@@ -1,0 +1,13 @@
+08:46:41 Open() exception: Access to the port 'COM14' is denied.
+09:07:53 Open() exception: Access to the port 'COM14' is denied.
+09:07:53 Open() exception: Access to the port 'COM14' is denied.
+09:07:53 SendData() exception: The port is closed.
+09:16:26 Open() exception: Access to the port 'COM14' is denied.
+09:17:21 Open() exception: Access to the port 'COM14' is denied.
+09:17:21 Open() exception: Access to the port 'COM14' is denied.
+09:17:21 SendData() exception: The port is closed.
+09:19:03 Open() exception: Access to the port 'COM14' is denied.
+09:21:39 Open() exception: Access to the port 'COM14' is denied.
+09:21:39 Open() exception: Access to the port 'COM14' is denied.
+09:21:39 SendData() exception: The port is closed.
+09:29:42 Open() exception: Access to the port 'COM14' is denied.

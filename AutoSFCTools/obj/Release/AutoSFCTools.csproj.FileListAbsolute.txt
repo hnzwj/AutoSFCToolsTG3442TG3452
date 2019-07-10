@@ -1,0 +1,12 @@
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\bin\Release\AutoSFCTools.exe.config
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.Debug.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.debug2.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.Form1.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.LoginForm.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.Properties.Resources.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.csproj.GenerateResource.Cache
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\bin\Release\AutoSFCTools.exe
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\bin\Release\AutoSFCTools.pdb
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\bin\Release\nsoftware.IPWorks.dll
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.exe
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Release\AutoSFCTools.pdb

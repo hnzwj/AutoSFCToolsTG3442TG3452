@@ -1,0 +1,343 @@
+F:\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+F:\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\Git\AutoSFCTools\AutoSFCTools\bin\Debug\MySql.Data.dll
+F:\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\MySql.Data.dll
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\MySql.Data.dll
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Imaging.dll
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.dll
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Math.dll
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Imaging.xml
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.xml
+H:\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Math.xml
+H:\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.dll
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Math.dll
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Imaging.xml
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.xml
+E:\soft\Git\AutoSFCTools\AutoSFCTools\bin\Debug\AForge.Math.xml
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+E:\soft\Git\AutoSFCTools\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+E:\soft\Git\AutoSFCTools - 最大化板\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+E:\soft\Git\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+E:\soft\Git\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools - 最大化板\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools - 最大化板\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\bin\Debug\MySql.Data.dll
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools - 最大化板_+fttsPing\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.18\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.19\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\bin\Debug\MySql.Data.dll
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.24auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.25auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\bin\Debug\MySql.Data.dll
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.27auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\AutoSFCTools _4.29auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Tony\Desktop\AutoSFCTools _4.29auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _4.29auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.29auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _4.29auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.29auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\bin\Debug\MySql.Data.dll
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Tony\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _4.30auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools _5.02auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools _5.03auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools _5.04auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools _5.06auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutoSFCTools _5.07auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools _5.13auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\bin\Debug\MySql.Data.dll
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\Users\Tony\Desktop\AutoSFCTools _5.14auto\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\LYY\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+C:\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+C:\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+C:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+C:\Users\Administrator\Desktop\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+C:\Users\Administrator\Desktop\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\AutoSFCTools _TG3442\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\AutoSFCTools _TG3442\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\bin\Debug\AutoSFCTools.exe.config
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.exe
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.pdb
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\bin\Debug\AutoSFCTools.exe
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\bin\Debug\AutoSFCTools.pdb
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.Debug.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.debug2.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.Form1.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.LoginForm.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.Properties.Resources.resources
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.csproj.GenerateResource.Cache
+F:\AutoSFCTools _TG3442_6.06\AutoSFCTools\obj\Debug\AutoSFCTools.csprojResolveAssemblyReference.cache
